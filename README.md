@@ -1,6 +1,7 @@
 # BlogDjango
  Site Blog com framework django e varias funcionalidades interessantes como por exemplo o uso do summernote, banco de dados utilizado Mysql
-![inicial](https://user-images.githubusercontent.com/73205402/205465021-3be24fea-5149-4e6c-9a8c-a231966767f9.png
+ 
+![inicial](https://user-images.githubusercontent.com/73205402/205465021-3be24fea-5149-4e6c-9a8c-a231966767f9.png)
 
 Navegando pela categoria  python!!
 
